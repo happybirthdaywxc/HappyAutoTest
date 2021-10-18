@@ -1,0 +1,63 @@
+[{
+	"response": {
+		"status": 200,
+		"json": 
+	{
+    "bidid": "maplehaze_id",
+    "id": "2104191605003770888759790",
+    "seatbid": [
+        {
+            "bid": [
+                {
+                    "crid": "203248127",
+                    "dealid": "10047",
+                    "ext": {
+                        "cm": [
+                            "https://adx.maplehaze.cn/report/click?app_id=10140&down_x=__DOWN_X__&down_y=__DOWN_Y__&height=0&log=Xs2KF4KzW3TBFeCcWXz1P1CGaIa99E97NGwP9E34JzumH6Mn6LUzzidSiNaWM8vXfofZzVsjWFoH%2BpXzVEDApBCb7c5ypMov0GcWvEUcNOEzXXkUYT4MsQbYSe9w2MiNfF8yANhUM226bNOPttDfbOnWuRUg3p5SL6%2F14V6mP30BA1IQRk%2FGqjcYwn%2Fc4kSO2bEiITMAXLgFQl9riqt5GOt7Ib1amzrpW1XjBpGoMcYpQ%2FEQjxXrA%2FcfdLXl1t3pHNVdAykIUe0cEPB7jiEkQ1ftpVYlk4iIRwW45%2F0PQJjWfegZuCYjWt%2F4dOgEAxSIP3VDgdHjfJ0L0EV9noWFTmLPWgcCehGl99m7Xwm1322Bgtm8a9gc6xs9nD4aqlIfPXiREg9v1s%2By5Zovcq9SfQ%3D%3D&report_id=f8d7ec45-b9ae-4825-bbaf-4087add404ee&req_height=720&req_width=1280&up_x=__UP_X__&up_y=__UP_Y__&width=0",
+                            "http://rd.e.sogou.com/nct?traceId=ecaa68be82005d93dfe1fa79dc34e739&st=wuSTbAIvyRd4ZtPgjuzSGJKEoAAt8kGugfL5P4FnzD0rL7HqQRNAD6hLRK95wcpdXSyhXfmNJ7awcerVTY02qc6RLcvi%2BmNMoJojYFnHWMOq43XXvX01iPB%2F6FXD9XRtLJQwxYx%2FmtIjUtwMhKQMhFPevBKSIBXLOz%2FMcwJVoR4KnHPv8rRCmUv%2FjyqjfoPdxwwWXHB3eTYHS9wdFjyfTb3CM0DFqBs7GZMoDPOXI6eUGOySazUI8tM1bqdeI93V"
+                        ],
+                        "pm": [
+                            "https://ad.hupu.com/124",
+                            "https://adx.maplehaze.cn/report/expose?app_id=10140&log=Xs2KF4KzW3TBFeCcWXz1P1CGaIa99E97NGwP9E34JzumH6Mn6LUzzidSiNaWM8vXfofZzVsjWFoH%2BpXzVEDApBCb7c5ypMov0GcWvEUcNOEzXXkUYT4MsQbYSe9w2MiNfF8yANhUM226bNOPttDfbOnWuRUg3p5SL6%2F14V6mP30BA1IQRk%2FGqjcYwn%2Fc4kSO2bEiITMAXLgFQl9riqt5GOt7Ib1amzrpW1XjBpGoMcYpQ%2FEQjxXrA%2FcfdLXl1t3pHNVdAykIUe0cEPB7jiEkQ1ftpVYlk4iIRwW45%2F0PQJjWfegZuCYjWt%2F4dOgEAxSIP3VDgdHjfJ0L0EV9noWFTmLPWgcCehGl99m7Xwm1322Bgtm8a9gc6xs9nD4aqlIfPXiREg9v1s%2By5Zovcq9SfQ%3D%3D&report_id=f8d7ec45-b9ae-4825-bbaf-4087add404ee",
+                            "https://open.e.kuaishou.com/rest/e/v2/open/log/show?prType=__PRTYPE__&pr=512&ex=8kq5j_2_510600016&adLog=H4sIAAAAAAAAAF2ROQ_kZgFAtUsQJEHKSjQoNFGaFI7w-fno8H3bM77HTRjb4_F9XzNVlDI_IAVINCCIUkYRok0BBf-BAtFSrYJA0LA13eue9N47_3z31eff_vE_P3r_03dVKlDlvWXK-O55cmNwyoTwQD1FZLGFOXZmNYp4wsqiZsfawHmE8uJk4dQ6UVxfGc-EYiecoUAf3hPneb8RQ3DYvNczpJgItzHAoSFMXAOmzynPB3d3tZ_t3tKWRElukd6yx2ZI4ynQWEt0zwg0XvEInp9n61rrpN45JMqgQ0OSt2g4M9B0P-B75aQsPFoXdRbMQoczOOFWzskXOZ9m_sqDpqalnGtrMemcJe1Cpg64nIx69cQnDZbWZOQcoZg2mLkMMK2T8D7OYCnapvRVKiGO0tkLxGpsxkGYrgvPFZlURB3FRSVVblS35xAoLEvs26mW-MQvEK53nMEvR5wOKE-NB-7iQpxNBjbJ0sK2URcKRjFfTa-8Iddyz8noNOXV9PB0XppjE6ZOQO7cm2LesadGaZ63BWy9-2h1Zx2i7ln5kcvOVFp-4lYLORBbxl9rCBYcCEMwicWUm3DGdKAG5JIHgjBJ5lO-0XlwzH0jYLalN7dLHwD7tMCCi8qqXXOOTBP4U2fB5jEmeqABTEBpQNsVa08gSUyPhyZTUajGYKVc45btZBiUzCCdWT9w-I6sIkRJ-Kh24kyeIvrBT4W0kPp0Uw_joFrqkmh0vlLuI6Ax-VAdQjGGE3MO5X3FQ5foaM_LEH4r3ZLbhAM8fD9huNCwjYsA2RJsQpe-jnk4OrQo73cXLjLb2rvCiE5MGfQiLD2odgcxlexmjox3XTEg2H9Ww9IsDjYkgI_7lVFZftvlS6FZImQZwq0wZVJDH_NdMXBLdmlxViWnc4jKTOA-U-QMLIK-4uPYQqmAlBrh7-tMhlLVjhwHlVd0yDewG6s733LjZpmTjNj1pWgOvFYoUnqUt4H1Sz3CJXkxVSFfuIvHtakoXpoolowdSEA9HACyvNYXsbLTtU-yXqmR7HpA6VlqJLrp8bkW5jKQ60idREJR4Q1q6jTEm4HEH2EEo3C5jq7ZAAVF2RhXxkFFAqrw-WT1ZeDQKSAfHD5qIsefkSSAGUUP5qUubupa8b54ES_GzGu7q-5xnV7KqE_7bo0lt-Y9zj9aeZgwHNYsdHY8j2ICas7yOKm0W4t2JWR4UtoodwgOMzKKp9NoigjNGjhGBEMO2Q9SLQ9CePO1V2MvruXV2lgnIojBQec98HfKDHlXeZqD1sYNow4pZHall6sP80zjbu82z8m-gjHVrxnpDWjIoU8FLdJoJlJJm61nV-r-vXC7oeG6h8zRxpRo245qxPM5-91938JTD1J_8K15ABzQLV4JNANk8GWFHQWrMr5rsAGQaA2G0FOs-8CVinJqOUJl7qBuRR8FjmP6UYONJ2_swjKToJ0eQ7wuqHEUrpX_eLO1W6gYKuIbu6DzKh6kZ--aKRfFor_pcy1P1mLOQlq23cA3wbpxYEikqA2YWhYJpDIiG6PWJ5eLySAxzQcvkH_85be__M0L-ndf_PnrH_789a_-9d0f_v7l336avEJFEmFoTBQFgcJIkn--umYUTZJXJsuuKUBo7KuXH2tvAxQhEQRBSec9AsMQQFAUCpg3SB-__vavn_34yxevP_r3i-9_-vIHr777_es_ffPfTz78CWsJjq0Kn_y_Qvse-jMkfmsv8_IXL_8H8owYPycGAAA&type=__TYPE__&behavior=__BEHAVIOR__",
+                            "https://fireclick.jd.com/adcollect.action?mediaId=108&planId=196521788&cid=3478003850&unitId=43880988&unitName=0414%2D%E5%BF%AB%E6%89%8B%2D0%E5%85%83%E8%AF%95%E7%94%A8%2D%E7%9F%AD%E8%A7%86%E9%A2%91%2DAD%2DA%2D12%E7%BA%BF%2D3&imei=__IMEI2__&oaid=ad7866a9ddac5082&idfaMd5=__IDFA2__&mac=__MAC2__&androidId=__ANDROIDID__&ts=__TS__&clientIp=218.81.81.34&site=1&callback=http%3A%2F%2Fad.partner.gifshow.com%2Ftrack%2Factivate%3Fcallback%3DAgSALIraOiNjNFHMkLPUS-Dc_H1MCSFgkdypNW5VzV5I1grfaUFfU_jVT2LvqhbYJO6cKdmOHj2oC4yTQ0B4D-O21ZsH1rAZpqjW0JKAXpgEq7K4opZrPxqyPGujyEhCNayK5Wu70w3GTMokRhTSBnbkHZpjkg5WxQRCfxNbM3Nm9ghpnaYwyEfelNzqgHL6&unionId=350272096&subunionId=201911280099&clientType=3&clickLocationType=B&clickUdt=101&adid=jdks-0ysy&deeplinkUrl=openapp.jdmobile://virtual?params=%7b%22category%22%3a%22jump%22%2c%22des%22%3a%22m%22%2c%22url%22%3a%22https%3a%2f%2ftry.m.jd.com%2f%22%7d&callbackUrl=%24%7b%7bCALLBACK%7d%7d%26event_type%3d1%26event_time%3d%24%7b%7bTIME_MILLI%7d%7d&platform=android&utmSource=ks-dsp",
+                            "http://rd.e.sogou.com/nvw?traceId=ecaa68be82005d93dfe1fa79dc34e739&st=wuSTbAIvyRd4ZtPgjuzSGJKEoAAt8kGugfL5P4FnzD0rL7HqQRNAD6hLRK95wcpdXSyhXfmNJ7awcerVTY02qc6RLcvi%2BmNMoJojYFnHWMOq43XXvX01iPB%2F6FXD9XRtLJQwxYx%2FmtIjUtwMhKQMhFPevBKSIBXLOz%2FMcwJVoR4KnHPv8rRCmUv%2FjyqjfoPdxwwWXHB3eTYHS9wdFjyfTb3CM0DFqBs7GZMoDPOXI6eUGOySazUI8tM1bqdeI93V"
+                        ],
+                        "lm": [
+                            "https://open.e.kuaishou.com/rest/e/v2/open/log/click?pr=512&downY=__ANDROIDID__&downX=__IDFA__&adLog=H4sIAAAAAAAAAF2ROQ_kZgFAtUsQJEHKSjQoNFGaFI7w-fno8H3bM77HTRjb4_F9XzNVlDI_IAVINCCIUkYRok0BBf-BAtFSrYJA0LA13eue9N47_3z31eff_vE_P3r_03dVKlDlvWXK-O55cmNwyoTwQD1FZLGFOXZmNYp4wsqiZsfawHmE8uJk4dQ6UVxfGc-EYiecoUAf3hPneb8RQ3DYvNczpJgItzHAoSFMXAOmzynPB3d3tZ_t3tKWRElukd6yx2ZI4ynQWEt0zwg0XvEInp9n61rrpN45JMqgQ0OSt2g4M9B0P-B75aQsPFoXdRbMQoczOOFWzskXOZ9m_sqDpqalnGtrMemcJe1Cpg64nIx69cQnDZbWZOQcoZg2mLkMMK2T8D7OYCnapvRVKiGO0tkLxGpsxkGYrgvPFZlURB3FRSVVblS35xAoLEvs26mW-MQvEK53nMEvR5wOKE-NB-7iQpxNBjbJ0sK2URcKRjFfTa-8Iddyz8noNOXV9PB0XppjE6ZOQO7cm2LesadGaZ63BWy9-2h1Zx2i7ln5kcvOVFp-4lYLORBbxl9rCBYcCEMwicWUm3DGdKAG5JIHgjBJ5lO-0XlwzH0jYLalN7dLHwD7tMCCi8qqXXOOTBP4U2fB5jEmeqABTEBpQNsVa08gSUyPhyZTUajGYKVc45btZBiUzCCdWT9w-I6sIkRJ-Kh24kyeIvrBT4W0kPp0Uw_joFrqkmh0vlLuI6Ax-VAdQjGGE3MO5X3FQ5foaM_LEH4r3ZLbhAM8fD9huNCwjYsA2RJsQpe-jnk4OrQo73cXLjLb2rvCiE5MGfQiLD2odgcxlexmjox3XTEg2H9Ww9IsDjYkgI_7lVFZftvlS6FZImQZwq0wZVJDH_NdMXBLdmlxViWnc4jKTOA-U-QMLIK-4uPYQqmAlBrh7-tMhlLVjhwHlVd0yDewG6s733LjZpmTjNj1pWgOvFYoUnqUt4H1Sz3CJXkxVSFfuIvHtakoXpoolowdSEA9HACyvNYXsbLTtU-yXqmR7HpA6VlqJLrp8bkW5jKQ60idREJR4Q1q6jTEm4HEH2EEo3C5jq7ZAAVF2RhXxkFFAqrw-WT1ZeDQKSAfHD5qIsefkSSAGUUP5qUubupa8b54ES_GzGu7q-5xnV7KqE_7bo0lt-Y9zj9aeZgwHNYsdHY8j2ICas7yOKm0W4t2JWR4UtoodwgOMzKKp9NoigjNGjhGBEMO2Q9SLQ9CePO1V2MvruXV2lgnIojBQec98HfKDHlXeZqD1sYNow4pZHall6sP80zjbu82z8m-gjHVrxnpDWjIoU8FLdJoJlJJm61nV-r-vXC7oeG6h8zRxpRo245qxPM5-91938JTD1J_8K15ABzQLV4JNANk8GWFHQWrMr5rsAGQaA2G0FOs-8CVinJqOUJl7qBuRR8FjmP6UYONJ2_swjKToJ0eQ7wuqHEUrpX_eLO1W6gYKuIbu6DzKh6kZ--aKRfFor_pcy1P1mLOQlq23cA3wbpxYEikqA2YWhYJpDIiG6PWJ5eLySAxzQcvkH_85be__M0L-ndf_PnrH_789a_-9d0f_v7l336avEJFEmFoTBQFgcJIkn--umYUTZJXJsuuKUBo7KuXH2tvAxQhEQRBSec9AsMQQFAUCpg3SB-__vavn_34yxevP_r3i-9_-vIHr777_es_ffPfTz78CWsJjq0Kn_y_Qvse-jMkfmsv8_IXL_8H8owYPycGAAA&type=__TYPE__&prType=__PRTYPE__&ex=8kq5j_2_510600016&width=1080&upX=__UP_X__&behavior=__BEHAVIOR__&height=2120&upY=__UP_Y__",
+                            "http://job-admin-sit.hupu.io/jobinfo"
+                            ],
+                        "dp":"taobao://",
+                        "connect2url":"https://jumpluna.58.com/assgin?cateid=8523&localid=29129&fid=u-2ddqg9jvq97pnc4f21.mfc_ruangao.a_11390.s_120967179397095425.m_21911.t_37943.o_3663.x_u-2ddqg9jvq97pnc4f21&adid=11390&sid=120967179397095425&rid=1441792780213854273&tid=37943&sysType=2&ip=223.90.187.255&sign=f8a4c47cd8a02757f6cae15f0e7f6030"
+                    },
+                    "id": "maplehaze_id",
+                    "impid": 2,
+                    "native": {
+                        "brand": "免费试用",
+                        "image": {
+                            "height": 390,
+                            "type": "jpg",
+                            "url": "https://js-ad.a.yximgs.com/bs2/adUnionVideo/adUniverseMaterial_1618368293889_MzQ3ODAwMzg1MGltYWdl.jpg",
+                            "width": 686
+                        },
+                        "link": {
+                            "ldp": "http://rd.e.sogou.com/nck?traceId=ecaa68be82005d93dfe1fa79dc34e739&url=http%3A%2F%2Fapk.360buyimg.com%2Fbuild-cms%2FV9.5.0-87697-350272096-201911280099-32bit.apk&st=wuSTbAIvyRd4ZtPgjuzSGJKEoAAt8kGugfL5P4FnzD0rL7HqQRNAD6hLRK95wcpdXSyhXfmNJ7awcerVTY02qc6RLcvi%2BmNMoJojYFnHWMOq43XXvX01iPB%2F6FXD9XRtLJQwxYx%2FmtIjUtwMhKQMhFPevBKSIBXLOz%2FMcwJVoR4KnHPv8rRCmUv%2FjyqjfoPdxwwWXHB3eTYHS9wdFjyfTb3CM0DFqBs7GZMoDPOXI6eUGOySazUI8tM1bqdeI93V&sign=d17314742e87fd98dbc79310f69507ae&adpid=__ADPID__",
+                            "ldptype": 0,
+                            "dp": "tbopen://"
+                        },
+                        "title": "免费试用，京东"
+                    },
+                    "nurl": "http://adx.maplehaze.cn/rtb/price?uid=8483c56f-76f6-4dff-996c-605a4b291808&tagid=hupu_10047_android&bp=1000&channel=9&price=${AUCTION_PRICE}&log=HytWYNKzmqp5HKnhVZeSIlMyrC1nnIBo8un1Iz6BEIVZuS2dwaX4xnp9t494M4LjvYZl7TTSPIyHKeNF8wN2Fg%3D%3D",
+                    "price": 1000
+                }
+            ]
+        }
+    ]
+}
+
+
+
+
+			}
+	
+}]
